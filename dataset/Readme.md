@@ -103,7 +103,7 @@ Sentiment Prediction
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Sentiment-Analysis-App.git
+git clone  https://github.com/Sonali-gupta-tech/Sentiment-Analysis-App.git
 ```
 
 ### Navigate to the project
